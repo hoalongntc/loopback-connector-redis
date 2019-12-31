@@ -40,8 +40,11 @@
   },
   "dependencies": {
     "async": "^2.6.1",
-    "redis": "^2.8.0",
     "ioredis": "^4.14.1",
     "strong-globalize": "^4.1.1"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
